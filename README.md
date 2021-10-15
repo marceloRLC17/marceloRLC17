@@ -4,7 +4,7 @@
 [![TWITTER](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/marceloRLC19)
 
 - 👨‍💻 Trabalho com back-end
--  Estudando Ciência da computação
+- 📚 Estudando Ciência da computação
 - 😄 Pronomes: ele/dele
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloRLC17&theme=highcontrast)](https://github.com/marceloRLC17/github-readme-stats)
