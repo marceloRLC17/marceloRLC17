@@ -9,5 +9,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceloRLC17&theme=highcontrast)](https://github.com/marceloRLC17/github-readme-stats)
 
 ## Linguagens mais usadas atualmente
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
