@@ -1,10 +1,10 @@
-### Como vai eu sou o Marcelo
+### Como vai eu sou o Marcelo / How are you, I'm Marcelo
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelocardoso23/)
 
-- 👨‍💻 Trabalho com Front-End
-- 📚 Estudando Ciência da computação
-- 😄 Pronomes: ele/dele = he/him
+- 👨‍💻 Trabalho com Front-End / Work with Front-End
+- 📚 Estudando Ciência da computação / Studying Computer Science
+- 😄 Pronomes: ele/dele / Pronouns: he/him
 
 ### Hi there 👋
 
