@@ -8,7 +8,7 @@
 
 ### Helo there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=marceloRLC17&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=marceloRLC17&theme=tokyonight&date_format=j/n/Y)](https://git.io/streak-stats)
 
 
 ## Linguagens mais usadas atualmente
